@@ -51,11 +51,6 @@ ed eseguire, dalla directory principale del progetto, il seguente comando:
 python src/init_db.py
 ```
 
-Nel caso si desideri ricreare il database da zero, è possibile eliminare il file `demo/expenses.db` ed eseguire, dalla directory principale del progetto, il seguente comando:
-
-```bash
-python src/init_db.py
-```
 Lo script esegue automaticamente il file `sql/schema.sql`, creando la struttura del database e tutte le tabelle necessarie al funzionamento dell’applicazione.
 
 
