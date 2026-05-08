@@ -1,3 +1,5 @@
 expenses_old.db
 expenses.sqbpro
 src/test_fra
+__pycache__/
+*.pyc
