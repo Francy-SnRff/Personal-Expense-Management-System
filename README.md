@@ -43,7 +43,7 @@ Nel repository è già incluso un database SQLite dimostrativo preconfigurato e 
 
 ## Inizializzazione del Database
 
-Nel caso si desideri ricreare il database da zero, è possibile eliminare il file (`demo/expenses.db`) 
+Nel caso si desideri ricreare il database da zero, è possibile eliminare il file `demo/expenses.db`
 
 ed eseguire, dalla directory principale del progetto, il seguente comando:
 
